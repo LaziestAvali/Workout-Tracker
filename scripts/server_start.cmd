@@ -1,0 +1,1 @@
+uvicorn workout_api.ain:app --reload --port 20000
