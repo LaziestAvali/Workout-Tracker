@@ -50,7 +50,7 @@ If that project get enough upvotes at roadmap, then I'll be start that 100%
 - [ ] Rewrite project as microservices
   - [ ] Auth service
   - [ ] Workout service
-- Add Message Broker (ApacheKafka) [^3]
-- Add Search Engine (Elasticsearch) [^3]
+- [ ] Add Message Broker (ApacheKafka) [^3]
+- [ ] Add Search Engine (Elasticsearch) [^3]
 
 [^3]: Only if it will be available. At start of the project I am not fully understand how much features I can add. 
